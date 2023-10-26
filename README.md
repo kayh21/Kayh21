@@ -1,4 +1,4 @@
-###✨ Hi guys ✨
+✨ Hi guys ✨
 
 - 🌱 I’m currently learning python
 - 🎓 I’m currently working with Automation Industrial
